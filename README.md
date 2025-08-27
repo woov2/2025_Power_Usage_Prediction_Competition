@@ -53,6 +53,8 @@ requirements.txt
 └── ag_ts_final.ipynb
 └── data_preprocessing.ipynb
 └── sample_submission.csv
+└── requirements.txt
+└── README.md
 ```
 
 ## Order
